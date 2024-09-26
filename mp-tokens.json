@@ -570,7 +570,7 @@
       "type": "color"
     },
     "bg-btn-primary--active": {
-      "value": "{Primary.500}",
+      "value": "{Primary.200}",
       "type": "color"
     },
     "bg-btn-primary--hover": {
