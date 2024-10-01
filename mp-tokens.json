@@ -637,11 +637,11 @@
       "value": "{White.100}",
       "type": "color"
     },
-    "bg-hero": {
+    "bg-footer": {
       "value": "{Secondary.500}",
       "type": "color"
     },
-    "bg-footer": {
+    "bg-hero": {
       "value": "{Secondary.500}",
       "type": "color"
     },
